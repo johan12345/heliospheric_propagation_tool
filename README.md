@@ -1,6 +1,6 @@
 # Heliospheric propagation tool
 
-
+**This repository has moved to https://github.com/esdc-esac-esa-int/Solar-MACH**
 
 ## Recommended setup
 
